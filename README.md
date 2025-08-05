@@ -18,14 +18,6 @@ Hello! I'm Prakash, a passionate student with a keen interest in building robust
 - **Frameworks:** (Exploring Django, see my project below!)
 
 ---
-
-## 🌟 Featured Project
-
-### [Django-Bluestock](https://github.com/prakash-787/Django-Bluestock)
-A project that showcases my growing expertise in Django and web application development. Check it out to see my approach to backend and frontend integration!
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn: prakash-pilla-106218264](https://www.linkedin.com/in/prakash-pilla-106218264/)
