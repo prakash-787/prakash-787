@@ -21,7 +21,7 @@ Hello! I'm Prakash, a passionate student with a keen interest in building robust
 ## 📫 Connect with Me
 
 - [LinkedIn: prakash-pilla-106218264](https://www.linkedin.com/in/prakash-pilla-106218264/)
-- [GitHub: prakash-787](https://github.com/prakash-787)
+- [Gmail: prakash-787](prakashpilla787@gmail.com)
 
 ---
 
